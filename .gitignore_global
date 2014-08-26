@@ -1,0 +1,26 @@
+# OS Ignores
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE Ignores
+.project
+.settings
+.tmp*
+.externalToolBuilders/
+.buildpath
+.idea/
+*/.project
+build.properties
+META-INF
+
+# Other
+.svn
+*.sublime-project
+*.sublime-workspace
+.sass-cache/
+*.css.map
